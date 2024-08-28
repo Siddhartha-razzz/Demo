@@ -1,3 +1,11 @@
 body{
     background-color: rgb(123, 222, 255);
 }
+
+p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    color: blueviolet;
+}
